@@ -3,6 +3,7 @@
 from matplotlib import pyplot
 from pandas import read_csv
 from pandas import set_option
+import numpy as np
 
 # #### Load the data
 # Load CSV using Pandas
